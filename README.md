@@ -1,5 +1,9 @@
 # CRM-Sales-Opportunities
-This Power BI project visualizes key sales and CRM opportunity metrics to help analyze team and product performance under managers across different time periods. 
+This Power BI project visualizes key sales and opportunity metrics from a CRM system to analyze how each sales team performs under different managers and products.
+
+ # 🎯 Project Goal
+The goal of this dashboard is to track and compare team performance under each manager, helping identify top-performing agents, products, and conversion trends across time periods.
+
 
 # 🔍 Overview
 
