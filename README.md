@@ -5,7 +5,8 @@ This Power BI project visualizes key sales and opportunity metrics from a CRM sy
 The goal of this dashboard is to track and compare team performance under each manager, helping identify top-performing agents, products, and conversion trends across time periods.
 
 ## DashBoard
-![Dashboard Screenshot](Screenshot 2025-10-06 192522.png)
+![Dashboard Screenshot].(Screenshot 2025-10-06 192522.png)
+
 
 # 🔍 Overview
 
